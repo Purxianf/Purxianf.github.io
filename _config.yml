@@ -1,7 +1,8 @@
 # Setup
 title:            bilgehanduman
 tagline:          'title'
-description:      'Jack of all trades, master of none.'
+description:      'Jack of all trades,
+master of none.'
 url:              https://Purxianf.github.io
 baseurl:          ''
 paginate:         2
