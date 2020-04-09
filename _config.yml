@@ -1,7 +1,7 @@
 # Setup
 title:            bilgehanduman
-tagline:          'jack of all trades, master of none'
-description:      'A brazen two-column <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:          'title'
+description:      'Jack of all trades, <a href="https://jekyllrb.com" target="_blank">Jekyll</a> master of none. <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              https://Purxianf.github.io
 baseurl:          ''
 paginate:         2
