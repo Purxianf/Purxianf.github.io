@@ -5,12 +5,12 @@ description:      'Jack of all trades,'
 'master of none.'
 url:              https://Purxianf.github.io
 baseurl:          ''
-paginate:         2
+paginate:         5
 
 # About and contact
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Bilgehan Duman'
+  url:            https://instagram.com/bilgehanduman
 
 # Gems
 plugins:
